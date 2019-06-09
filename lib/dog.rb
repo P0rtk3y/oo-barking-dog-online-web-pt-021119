@@ -5,5 +5,6 @@ class Dog
   end 
   
   def self.bark
+    puts "woof!"
   end 
 end 
